@@ -85,14 +85,14 @@ func (d Developer) GetDescription() string {
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidarth-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="Sidarth's GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidarth-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=38BDF8" alt="Top Languages" height="165">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sidarth-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="Sidarth's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sidarth-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=38BDF8" alt="Top Languages" height="165" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidarth-23&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=BF91F3&fire=F38BA8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
@@ -102,40 +102,40 @@ func (d Developer) GetDescription() string {
   <tr>
     <td width="50%">
       <h3 align="center">Portfolio Website</h3>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/sidarth-23/portfolio" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidarth-23&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="Portfolio">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sidarth-23&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="Portfolio" />
         </a>
-      </p>
+      </div>
       <p align="center">My personal portfolio built with Astro, featuring blog posts and showcasing my projects.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Next.js with ESLint Template</h3>
-      <p align="center">
-        <a href="https://github.com/sidarth-23/nextjs-with-eslint" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidarth-23&repo=nextjs-with-eslint&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="Next.js Template">
+      <h3 align="center">Multi-tenant E-commerce</h3>
+      <div align="center">
+        <a href="https://github.com/sidarth-23/multitenant-ecommerce" target="_blank">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sidarth-23&repo=multitenant-ecommerce&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="Multi-tenant E-commerce" />
         </a>
-      </p>
-      <p align="center">A robust Next.js starter with strong ESLint configuration and consistent naming conventions.</p>
+      </div>
+      <p align="center">A scalable multi-tenant e-commerce platform built with TypeScript and modern web technologies.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Shadcn with Skeleton UI</h3>
-      <p align="center">
-        <a href="https://github.com/sidarth-23/shadcn-with-skeleton-ui" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidarth-23&repo=shadcn-with-skeleton-ui&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="Shadcn Template">
+      <h3 align="center">Pokedex CLI</h3>
+      <div align="center">
+        <a href="https://github.com/sidarth-23/pokedexcli" target="_blank">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sidarth-23&repo=pokedexcli&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="Pokedex CLI" />
         </a>
-      </p>
-      <p align="center">Template combining Shadcn components with Skeleton UI for enhanced theming experience.</p>
+      </div>
+      <p align="center">A command-line Pokedex application built with Go to explore and learn Golang fundamentals.</p>
     </td>
     <td width="50%">
       <h3 align="center">Dotfiles</h3>
-      <p align="center">
+      <div align="center">
         <a href="https://github.com/sidarth-23/dotfiles" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidarth-23&repo=dotfiles&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="Dotfiles">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sidarth-23&repo=dotfiles&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="Dotfiles" />
         </a>
-      </p>
+      </div>
       <p align="center">My personal configuration files for development environment setup.</p>
     </td>
   </tr>
@@ -154,9 +154,11 @@ func (d Developer) GetDescription() string {
 
 ### 💡 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br />
 
 ---
 
