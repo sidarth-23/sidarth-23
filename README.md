@@ -70,23 +70,6 @@ I enjoy converting operational pain points into product features, standardizing 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sidarth-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="GitHub Stats" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sidarth-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&text_color=38BDF8" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📜 Certifications & Education
 
 - 🎓 **B.Tech in Electrical and Electronics Engineering** — Amrita Vishwa Vidyapeetham, Coimbatore (2018 – 2022)
